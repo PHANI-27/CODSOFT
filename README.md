@@ -1,1 +1,1 @@
-CODSOFT WEB DEVELOPMENT INTERNSHIP
+web development and python projects
